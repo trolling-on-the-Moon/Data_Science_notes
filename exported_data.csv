@@ -1,0 +1,3 @@
+,Column,QuestionText
+0,Respondent,Randomized respondent ID number (not in order of survey response time)
+1,MainBranch,"Which of the following options best describes you today? Here, by ""developer"" we mean ""someone who writes code."""
